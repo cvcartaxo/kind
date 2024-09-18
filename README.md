@@ -14,7 +14,7 @@ Antes de começar, você precisa ter o seguinte instalado em sua máquina:
 
 Para instalar o **Kind**, basta seguir os comandos abaixo:
 
-### Linux/
+### Linux
 
 ```bash
 curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.20.0/kind-linux-amd64
@@ -22,7 +22,7 @@ chmod +x ./kind
 mv ./kind /usr/local/bin/kind
 ```
 
-### Mac/
+### Mac
 ```bash
 brew install kind
 ```
