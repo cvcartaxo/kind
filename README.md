@@ -27,4 +27,10 @@ mv ./kind /usr/local/bin/kind
 brew install kind
 ```
 
+## Para usar o kind em linha de comando
 
+kind create cluster # nome padrão `kind`.
+
+kind create cluster --name kind-cartaxo
+
+Para instalar o **Kind**, basta seguir os comandos abaixo:
